@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Muhammad Rayhan Syah <br>
+I'm currently part of [Certified Independent Study Program by MoECRT](https://kampusmerdeka.kemdikbud.go.id/program/studi-independen) and [Dicoding](https://www.dicoding.com/).\
+with Android Developer learning path <br> <br>
+if you want to know more about me, please kindly check [My CV](https://rayhans21.github.io)
+and [My LinkedIn](https://www.linkedin.com/in/muhammadrayhans)
+
+
