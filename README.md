@@ -56,7 +56,7 @@ I'm a graduate in Information Systems,  amateur radio operator, and technology e
 
 **Callsign:** YC5NCM
 Open to collaboration on web development, IoT, and RF projects.
-Please kindly check [My CV](https://rayhans21.github.io)
+Please kindly check [My CV](https://rayhans.vercel.app)
 and [My LinkedIn](https://www.linkedin.com/in/muhammadrayhans)
 
 > "I build things that connect — through code, signals, and communities."
